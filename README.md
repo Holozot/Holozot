@@ -1,16 +1,14 @@
-## Hi there 👋
+##Introduction🤗
+Hello, I'm Kelly Grace! I am a software engineer based in Nairobi, Kenya
 
-<!--
-**Holozot/Holozot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
+I am a software developer who loves to integrate innovation, creativity, and technology. I'm constantly eager to learn and explore new ways to leverage code to solve problems and create impactful solutions.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: **[HTML, CSS, JAVASCRIPT**
+- 🔭 Working on: **[Backend development with Django and Python]**
+- 📫 How to reach me: **[kelwgra17@gmail.com]**
+- ⚡ Fun fact: **[I am a big salad fan]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch 📬
+LinkedIn: https://www.linkedin.com/in/kelly-grace-2514b6242/
+
