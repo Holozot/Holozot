@@ -1,4 +1,4 @@
-##Introduction🤗
+
 Hello, I'm Kelly Grace! I am a software engineer based in Nairobi, Kenya
 
 ## About Me 🚀
